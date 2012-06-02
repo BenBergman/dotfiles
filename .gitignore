@@ -2,6 +2,7 @@
 /*
 
 # do not ignore:
+!README.md
 !bin/
 !.bash/
 !gaf/
