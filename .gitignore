@@ -6,4 +6,5 @@
 !bin/
 !.bash/
 !gaf/
+!.git_hooks/
 !.vim/

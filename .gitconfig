@@ -1,5 +1,7 @@
 [user]
 	name = Benjamin Bergman
 	email = ben@benbergman.ca
+[github]
+  user = BenBergman
 [core]
   exclude = ~/.gitignore-global

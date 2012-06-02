@@ -7,3 +7,6 @@
 [submodule "gaf"]
 	path = gaf
 	url = git@github.com:BenBergman/gaf.git
+[submodule ".git_hooks"]
+	path = .git_hooks
+	url = git@github.com:BenBergman/.git_hooks.git
