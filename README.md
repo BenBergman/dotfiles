@@ -4,5 +4,5 @@ This is a repository for all the configuration files found in my Linux user dire
 
 To-do
 -----
-Create an installer that initializes all submodules, running any installer scripts they might have, and creating any required symlinks
-Use generators for any sensitive configuration files so private information is not publicly hosted
+*Create an installer that initializes all submodules, running any installer scripts they might have, and creating any required symlinks
+*Use generators for any sensitive configuration files so private information is not publicly hosted
