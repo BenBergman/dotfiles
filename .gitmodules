@@ -4,3 +4,6 @@
 [submodule ".bash"]
 	path = .bash
 	url = git@github.com:BenBergman/.bash.git
+[submodule "gaf"]
+	path = gaf
+	url = git@github.com:BenBergman/gaf.git
