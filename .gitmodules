@@ -10,3 +10,6 @@
 [submodule ".git_hooks"]
 	path = .git_hooks
 	url = git@github.com:BenBergman/.git_hooks.git
+[submodule ".pcb"]
+	path = .pcb
+	url = git@github.com:BenBergman/.pcb.git
