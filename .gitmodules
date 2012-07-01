@@ -13,3 +13,6 @@
 [submodule ".zsh"]
 	path = .zsh
 	url = git@github.com:BenBergman/.zsh.git
+[submodule ".pcb"]
+	path = .pcb
+	url = git@github.com:BenBergman/.pcb.git
