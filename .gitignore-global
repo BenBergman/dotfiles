@@ -1,6 +1,7 @@
 TAGS
 tags
 *.DS_Store
+.AppleDouble/*
 *.local
 *.swp
 *.pcb-
