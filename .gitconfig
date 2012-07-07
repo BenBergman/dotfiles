@@ -4,4 +4,6 @@
 [github]
   user = BenBergman
 [core]
-  exclude = ~/.gitignore-global
+  excludesfile = ~/.gitignore-global
+[color]
+	ui = true
