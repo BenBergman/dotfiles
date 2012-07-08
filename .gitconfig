@@ -7,3 +7,5 @@
   excludesfile = ~/.gitignore-global
 [color]
 	ui = true
+[alias]
+	pushr = submodule foreach --recursive 'git push ||:'
