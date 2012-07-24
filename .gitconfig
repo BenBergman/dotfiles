@@ -9,3 +9,7 @@
 	ui = true
 [alias]
 	pushr = submodule foreach --recursive 'git push ||:'
+[tig]
+  line-graphics = "utf-8"
+[tig "bind"]
+  generic = F !git fetch
