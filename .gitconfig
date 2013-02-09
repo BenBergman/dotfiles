@@ -13,8 +13,6 @@
   g = !gitg
   k = !gitk
   aliases = !git config --get-regexp 'alias.*' | colrm 1 6 | sed 's/[ ]/ = /'
-[merge]
-	conflictstyle = diff3
 [tig]
   line-graphics = "utf-8"
 [tig "bind"]
